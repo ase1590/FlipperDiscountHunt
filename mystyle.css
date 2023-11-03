@@ -2,3 +2,12 @@ body {
     background-color: black;
     color: rgb(0, 255, 0);
   }
+
+.box {
+  border: 1px solid red;
+  padding: 10px;
+  width:700px;
+  margin: 10px;
+  overflow:auto;
+  display: flex;
+}
